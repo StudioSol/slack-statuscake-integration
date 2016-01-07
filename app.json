@@ -1,0 +1,13 @@
+{
+  "name": "slack-statuscake-integration",
+  "description": "StatusCake webhook integration to slack",
+  "keywords": [
+    "slack",
+    "go",
+    "statuscake"
+  ],
+  "image": "heroku/go:1.5",
+  "mount_dir": "src/github.com/StudioSol/slack-statuscake-integration",
+  "website": "http://github.com/StudioSol/slack-statuscake-integration",
+  "repository": "http://github.com/StudioSol/slack-statuscake-integration"
+}
